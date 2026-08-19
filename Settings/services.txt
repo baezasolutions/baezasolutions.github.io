@@ -33,4 +33,4 @@ TEXT: High-quality interior and exterior painting services to refresh your prope
 ICON: fa-solid fa-screwdriver-wrench
 IMG: Logos/Service_Logos/Maintance.png
 TITLE: Maintenance
-TEXT: Comprehensive home and property maintenance to keep everything running smoothly.
+TEXT: Comprehensive home and property maintenance to keep everything running smoothly. This also includes landscaping maintenance, trimming trees, bushes and much more!
