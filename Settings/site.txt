@@ -1,0 +1,26 @@
+# ============================================================
+#   SITE-WIDE SETTINGS
+#   Controls the business name, phone, email, footer, and social
+#   links shown on the whole page (nav, footer, buttons).
+#   Edit the text after each colon. Lines starting with # are
+#   notes and are ignored.
+# ============================================================
+
+SITE NAME: Baeza's Total Solution Services
+TAGLINE: One Company. Total Solutions.
+FOOTER: © 2026 Baeza's Total Solution Services (Phoenix, AZ) — All Rights Reserved.
+
+# ---------- Contact ----------
+# Put your real phone number here. It powers ALL the Call/Text buttons
+# on the page (hero, contact section, and footer).
+PHONE: (602) 865-9360
+# Your email. It powers the Email buttons. Use # to hide it.
+EMAIL: baezasolutions@proton.me
+
+# Shown in the hero and footer.
+SERVICE AREA: Phoenix, AZ & surrounding areas
+
+# ---------- Social links ----------
+# Replace # with your real page link. Leave as # to hide the icon.
+FACEBOOK: #
+INSTAGRAM: #

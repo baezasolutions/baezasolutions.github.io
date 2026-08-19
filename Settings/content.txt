@@ -1,0 +1,36 @@
+# ============================================================
+#   PAGE CONTENT
+#   Edit the text after each colon. Don't change the labels.
+# ============================================================
+
+# ---------- Hero (top of the page) ----------
+HERO STATUS: Free Estimates
+HERO TITLE LINE 1: One company.
+HERO TITLE LINE 2: Total solutions.
+HERO SUB: HVAC, Landscaping, Pavers, Travertine, Painting & Maintenance — One trusted team for everything your property needs.
+HERO META 3: Serving Phoenix, Arizona & Surrounding Areas
+
+# ---------- Trust strip (the 4 badges) ----------
+TRUST 3: We Protect, We Maintain, We Improve
+
+# ---------- Services section ----------
+SERVICES EYEBROW: What We Do
+SERVICES HEADING: Six services. One trusted team.
+SERVICES LEAD: From climate control to custom hardscaping, we're your single source for protecting, maintaining, and improving your property.
+
+# ---------- Why Choose Us / Mission ----------
+MISSION EYEBROW: Why Choose Us
+MISSION HEADING: We protect. We maintain. We improve.
+MISSION TEXT: At Baeza's Total Solution Services, you don't need to juggle multiple contractors. We are your single, trusted source for everything your property needs. From climate control to custom hardscaping, we are dedicated to protecting your investment, maintaining its value, and improving its beauty.
+
+# ---------- Contact section ----------
+CONTACT EYEBROW: Get In Touch
+CONTACT HEADING: Let's get started.
+CONTACT SUB: Call, text, or email us for a free estimate — we'll respond fast.
+CONTACT CALL TITLE: Call Us
+CONTACT CALL TEXT: Speak with us directly about your project.
+CONTACT TEXT TITLE: Text Us
+CONTACT TEXT TEXT: Send a quick message — we'll text you right back.
+CONTACT EMAIL TITLE: Email Us
+CONTACT EMAIL TEXT: Prefer email? Send us the details.
+CONTACT BOTTOM TEXT: Ready when you are — one call covers HVAC, landscaping, pavers, travertine, painting, and maintenance.

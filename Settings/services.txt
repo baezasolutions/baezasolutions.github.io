@@ -1,0 +1,36 @@
+# ============================================================
+#   SERVICES
+#   Each card is a block separated by a BLANK LINE.
+#   ICON: a Font Awesome class (see fontawesome.com/icons)
+#   To add/remove a service, add/remove a block below.
+# ============================================================
+
+ICON: fa-solid fa-fan
+IMG: Logos/Service_Logos/AC.png
+TITLE: HVAC
+TEXT: Reliable heating and cooling solutions to keep your home comfortable year-round.
+
+ICON: fa-solid fa-tree
+IMG: Logos/Service_Logos/Landscape.png
+TITLE: Landscaping
+TEXT: Professional lawn care, plant installation, and outdoor beautification.
+
+ICON: fa-solid fa-road
+IMG: Logos/Service_Logos/Pavers.png
+TITLE: Pavers
+TEXT: Custom paver design and installation for driveways, walkways, and patios.
+
+ICON: fa-solid fa-layer-group
+IMG: Logos/Service_Logos/Travertine.png
+TITLE: Travertine
+TEXT: Elegant and durable travertine installations for premium outdoor living spaces.
+
+ICON: fa-solid fa-paint-roller
+IMG: Logos/Service_Logos/Paint.png
+TITLE: Painting
+TEXT: High-quality interior and exterior painting services to refresh your property.
+
+ICON: fa-solid fa-screwdriver-wrench
+IMG: Logos/Service_Logos/Maintance.png
+TITLE: Maintenance
+TEXT: Comprehensive home and property maintenance to keep everything running smoothly.
