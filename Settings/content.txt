@@ -7,8 +7,7 @@
 HERO STATUS: Free Estimates
 HERO TITLE LINE 1: One company.
 HERO TITLE LINE 2: Total solutions.
-HERO SUB: Baezasolutions Construction & Landscaping | Turnkey Project Management & Contracting
-We provide seamless project management and expert crew coordination for residential, commercial, and multi-family properties. From rapid apartment turnovers to ongoing maintenance, our comprehensive services include painting, drywall, flooring, landscaping, and general repairs. We handle the logistics so your project is completed on time and to the highest standard.
+HERO SUB: Construction & Landscaping. Turnkey Project Management & Contracting. We provide seamless project management and expert crew coordination for residential, commercial, and multi-family properties. From rapid apartment turnovers to ongoing maintenance, our comprehensive services include painting, drywall, flooring, landscaping, and general repairs. We handle the logistics so your project is completed on time and to the highest standard.
 HERO META 3: Serving Phoenix, Arizona & Surrounding Areas
 
 # ---------- Trust strip (the 4 badges) ----------
