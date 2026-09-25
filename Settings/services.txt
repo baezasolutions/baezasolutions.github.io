@@ -12,13 +12,13 @@ TEXT: Reliable heating and cooling solutions to keep your home comfortable year-
 
 ICON: fa-solid fa-tree
 IMG: Logos/Service_Logos/Landscape.png
-TITLE: Landscaping
-TEXT: Professional lawn care, plant installation, and outdoor beautification.
+TITLE: LANDSCAPING
+TEXT: Keep your property looking its best with professional trimming, cleanup, plant care, irrigation checks, weed control, and ongoing landscape maintenance.
 
 ICON: fa-solid fa-road
 IMG: Logos/Service_Logos/Pavers.png
-TITLE: Pavers
-TEXT: Custom paver design and installation for driveways, walkways, and patios.
+TITLE: PAVERS
+TEXT: Upgrade your outdoor space with custom paver driveways, walkways, patios, and hardscape features built for long-lasting beauty and durability.
 
 ICON: fa-solid fa-layer-group
 IMG: Logos/Service_Logos/Travertine.png
@@ -32,5 +32,5 @@ TEXT: High-quality interior and exterior painting services to refresh your prope
 
 ICON: fa-solid fa-screwdriver-wrench
 IMG: Logos/Service_Logos/Maintance.png
-TITLE: Maintenance
-TEXT: Comprehensive home and property maintenance to keep everything running smoothly. This also includes landscaping maintenance, trimming trees, bushes and much more!
+TITLE: PROPERTY MAINTENANCE & RENOVATION
+TEXT: Turnover, make-ready, repairs, painting, drywall, and property improvements to get your space move-in ready.
